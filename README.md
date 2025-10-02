@@ -1,6 +1,5 @@
 # cp2025
 
-## Part1
 this is README
 - item1
 - item2
